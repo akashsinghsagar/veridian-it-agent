@@ -6,6 +6,8 @@
 
 > A deterministic, policy-aware IT support agent designed for **Veridian Corp** that understands employee requests, retrieves relevant IT policies, makes explainable decisions, creates traceable tickets, and maintains a complete audit trail — **fully locally, without an LLM or external API dependency.**
 
+LIVE LINK : https://veridian-it-agent.streamlit.app 
+
 **Author:** Akash Singh Sagar
 
 ---
